@@ -1,0 +1,25 @@
+
+.container-fluid{
+  padding: 2% 15%;
+}
+/* about section */
+.Explanation{
+  margin:auto 0;
+}
+.bg-blue{
+  background-color: #4e7896;
+}
+.about{
+  text-align: left;
+}
+.example {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+.example img {
+  height: inherit;
+  width: inherit;
+}
+/*  Meet The Team Section*/
