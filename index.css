@@ -1,6 +1,22 @@
+.big-sec{
+  padding: 1% 15%;
+}
+.header{
+  padding-left: 5%;
+  padding-right: 7.5%;
+}
+#particles-js{
+  z-index: -1;
+  position: absolute;
+  width: 100%;
+}
+#About{
+  padding: 1% 5%;
+  text-align: left;
+}
 
-.container-fluid{
-  padding: 2% 15%;
+.navbar{
+  min-height: 80px;
 }
 /* about section */
 .Explanation{
@@ -9,9 +25,7 @@
 .bg-blue{
   background-color: #4e7896;
 }
-.about{
-  text-align: left;
-}
+
 .example {
     display: flex;
     justify-content: center;
@@ -25,6 +39,7 @@
 /*  Meet The Team Section*/
 #MeetTheTeam{
   text-align: center;
+
 }
 .IndividualPic{
   width:inherit;
@@ -53,4 +68,17 @@
 }
 .ProfilePic:hover .overlay {
   opacity: 1;
+}
+
+
+/* Contact Section  */
+
+#Contact{
+  text-align: center;
+
+}
+.sec{
+  text-align: center;
+  padding: 5px;
+  border-radius: 5%;
 }
