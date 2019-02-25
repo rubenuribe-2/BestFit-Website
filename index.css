@@ -23,3 +23,34 @@
   width: inherit;
 }
 /*  Meet The Team Section*/
+#MeetTheTeam{
+  text-align: center;
+}
+.IndividualPic{
+  width:inherit;
+  height: inherit;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 5%;
+}
+#MeetTheTeam img{
+  height: inherit;
+  width: inherit;
+  border-radius: 100%;
+}
+
+.overlay {
+  position: relative;
+  bottom:0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+}
+.ProfilePic{
+  height: inherit;
+  width: inherit;
+}
+.ProfilePic:hover .overlay {
+  opacity: 1;
+}
