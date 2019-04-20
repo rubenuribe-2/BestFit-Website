@@ -1,5 +1,5 @@
 .big-sec{
-  padding: 1% 15%;
+  padding: 1% 5%;
 }
 .bg-dark-trans{
   background-color: rgba(41, 43, 44, .7);
@@ -23,13 +23,13 @@ body{
   height: 1000px;
 }
 #About{
-  padding: 1% 5%;
   padding-top: 8%;
   text-align: left;
 }
 
 .navbar{
   min-height: 80px;
+  padding: 0 5%;
 }
 /* about section */
 .Explanation{
@@ -38,7 +38,10 @@ body{
 .bg-blue{
   background-color: #4e7896;
 }
-
+.container-fluid{
+  padding-left: 0;
+  padding-right: 0;
+}
 .example {
     display: flex;
     justify-content: center;
@@ -92,6 +95,10 @@ body{
 }
 .sec{
   text-align: center;
-  padding: 5px;
-  border-radius: 5%;
+  height: 200px;
+  border-radius: 10px;
+}
+.sec-header{
+  background-color: #fefefe;
+  border-radius: 10px;
 }
