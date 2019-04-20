@@ -95,6 +95,10 @@ body{
 }
 .sec{
   text-align: center;
-  padding: 5px;
-  border-radius: 5%;
+  height: 200px;
+  border-radius: 10px;
+}
+.sec-header{
+  background-color: #fefefe;
+  border-radius: 10px;
 }
