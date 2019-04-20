@@ -7,14 +7,15 @@
 body{
   scroll-behavior: smooth;
 }
-.header{
+/* .header{
   padding-left: 5%;
   padding-right: 7.5%;
   width: 100%;
   height: auto;
   position: fixed;
+  margin-bottom: 12px;
   z-index: 1;
-}
+} */
 #particles-js{
   z-index: -1;
   position: absolute;
