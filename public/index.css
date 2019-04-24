@@ -98,3 +98,15 @@ body{
   height: 200px;
   border-radius: 10px;
 }
+
+.sec-header{
+  background-color: #fefefe;
+  border-radius: 10px;
+}
+
+h1 {
+  text-decoration: underline;
+
+
+}
+
