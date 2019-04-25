@@ -2,7 +2,7 @@
   padding: 1% 5%;
 }
 .bg-dark-trans{
-  background-color: rgba(41, 43, 44, .7);
+  background-color: #36454f;
 }
 body{
   scroll-behavior: smooth;
@@ -91,7 +91,7 @@ body{
 
 #Contact{
   text-align: center;
-
+  padding-bottom: 60px;
 }
 .sec{
   text-align: center;
@@ -106,6 +106,22 @@ body{
 
 h1 {
   text-decoration: underline;
+
+
+}
+
+#footer{
+  text-align: center;
+  height: 45px;
+  padding-top: 13px;
+  background-color: #36454f;
+}
+#rights{
+  color: white;
+  text-align: center;
+
+  font-size: 75%;
+
 
 
 }
