@@ -112,14 +112,14 @@ h1 {
 
 #footer{
   text-align: center;
-  height: 45px;
-  padding-top: 13px;
+  height: 48px;
+  
   background-color: #36454f;
 }
 #rights{
   color: white;
   text-align: center;
-
+  padding-top: 14px;
   font-size: 75%;
 
 
