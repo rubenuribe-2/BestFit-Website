@@ -90,8 +90,14 @@ body{
 /* Contact Section  */
 
 #Contact{
+  margin: auto;
+  align-content: center;
   text-align: center;
   padding-bottom: 60px;
+}
+#Contact div{
+  margin: auto;
+  align-content: space-around;
 }
 .sec{
   text-align: center;
@@ -126,3 +132,10 @@ h1 {
 
 }
 
+.touch{
+  padding-top:50px;
+  width: 375px;
+}
+.touch div{
+  margin: 50px;
+}
